@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola! 👋 Soy Yamil Palmiero</h1>
 <p align="center">
-  <img src="[URL_DE_TU_IMAGEN](https://media.licdn.com/dms/image/v2/D4D03AQEKJKtgQWvF6g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1689515345659?e=1754524800&v=beta&t=Kuf8iuzmFZWEDPc0OLT4z8iJ2GggI82Df6m_5irMJ9g)" alt="Yamil Palmiero" width="200"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="GIF animado" width="200" />
 </p>
+
 
 
 
