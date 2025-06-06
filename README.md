@@ -44,8 +44,8 @@ Soy un desarrollador especializado en datos apasionado por la tecnología y la p
 ## 📫 Contacto
 
 - Email: yamilpalmiero@gmail.com
-- LinkedIn: [yamilpalmiero]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/yamil-palmiero/))
-- Instagram: [yamilpalmiero]([https://twitter.com/tu_usuario](https://www.instagram.com/yamilpalmiero/#))
+- LinkedIn: [Yamil Palmiero](https://www.linkedin.com/in/yamil-palmiero/)
+- Instagram: [yamilpalmiero](https://www.instagram.com/yamilpalmiero/#)
 
 
 <!--
