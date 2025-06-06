@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Yamil Palmiero</h1>
+<h1 align="center">¡Hola! 👋 Soy Yamil</h1>
 <p align="center">
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g1a2l1Zm4wYTF6ZHJ6anU5bnRtcGZodWpnN2ZqeGs4emNwMjJ4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="GIF animado" width="200" />
